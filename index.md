@@ -4,34 +4,22 @@ layout: default
 
 ## Administrative information
 
-Administrative course information is available [here](URL)
-
-We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
-
-We have the following rooms and hours:
-
-*
+The GameLabe seminar will be given Spring 2024.
 
 ## Staff
-
-*
+* Lars Ailo Bongo (responsible professor)
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+TBA
 
 ## Readings
 
-1.
-
+TBA
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | [Assignment](URL) | Lecturer
+TBA
 
 ## Exercises
 
-1.
+TBA
