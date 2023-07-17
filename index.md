@@ -7,7 +7,7 @@ layout: default
 The GameLabe seminar will be given Spring 2024.
 
 ## Staff
-* Lars Ailo Bongo (responsible professor)
+* Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor)
 
 ## Lecture plan
 
