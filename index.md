@@ -53,7 +53,7 @@ Project milestones (note that all dates are based on GameLab 1 and will be chang
 | Live               | 01.06.24 | Game launched! |
 
 Exam dates:
-* TBA: final delivery
+* TBA: final delivery of project
 * TBA: oral presentation
 
 ## Readings
@@ -61,5 +61,5 @@ Exam dates:
 There are no mandatory readings. 
 
 Recommended readings are:
-* 
+* The Art of Game Design: A Book of Lenses. Jesse Schell. Describes the non-technical aspects of game design.
 
