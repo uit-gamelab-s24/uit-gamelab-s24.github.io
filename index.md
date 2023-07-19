@@ -25,6 +25,7 @@ The course will be given as a master's level course. We may consider allowing es
 
 ## Staff and collaborators
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
+* Ismet Bachtiar (Tvibit)
 * In collaboration with local game development industry.
 
 <!---
@@ -38,6 +39,8 @@ The course has a very practical and hands-on approach. The primary evaluation cr
 Technologies to be used are TBA.
 
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and clients-erver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
+
+For the grade the project counts 80% and a presentation of the project (20%). 
 
 ## Lecture plan and course timeline
 
