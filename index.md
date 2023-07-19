@@ -44,11 +44,13 @@ For the grade the project counts 80% and a presentation of the project (20%).
 
 ## Lecture plan and course timeline
 
-| Lecture/ seminar | Date		   | Subject	  | Lecturer |
+| Lecture/ seminar / event | Date		   | Subject	  | Lecturer |
 |------------------|-----------|------------|----------|
 | L1  | Start of semester | First lecture    | Lecturer     |
 | S1  | Start of semester | Kick-off seminar | Course staff |
 | SN  | End of semester   | Game presentation evening | Course staff | 
+| E1  | Social event 1    | -                | - |
+| I1  | Industry visit    | -                | - |
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
