@@ -35,7 +35,25 @@ In addition to being evaluated on the successful completion of the game you will
 
 ## Lecture plan and course timeline
 
-More details TBA
+| Lecture/ seminar | Date		   | Subject	  | Lecturer |
+|------------------|-----------|------------|----------|
+| L1  | Start of semester | First lecture    | Lecturer     |
+| S1  | Start of semester | Kick-off seminar | Course staff |
+| SN  | End of semester   | Game presentation evening | Course staff | 
+
+Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
+| Milestone | Date | Descriotion |
+|-----------|------|-------------|
+| High-level concept | 02.02.24 | General overall direction |
+| Design             | 16.02.24 | Game and technology defined |
+| Prototype          | 15.03.24 | Playable game |
+| Alpha              | 15.04.24 | Feature complete | 
+| Beta               | 15.05.24 | Content complete. Submit | 
+| Live               | 01.06.24 | Game launched! |
+
+Exam dates:
+* TBA: final delivery
+* TBA: oral presentation
 
 ## Readings
 
