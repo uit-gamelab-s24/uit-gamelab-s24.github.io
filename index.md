@@ -31,7 +31,10 @@ TBA
 
 ## Readings
 
-TBA
+There are no mandatory readings. 
+
+Recommended readings are:
+* 
 
 ## Project and evaluation
 
