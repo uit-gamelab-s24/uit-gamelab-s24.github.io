@@ -42,6 +42,7 @@ In addition to being evaluated on the successful completion of the game you will
 | SN  | End of semester   | Game presentation evening | Course staff | 
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
+
 | Milestone | Date | Descriotion |
 |-----------|------|-------------|
 | High-level concept | 02.02.24 | General overall direction |
