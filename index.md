@@ -21,9 +21,13 @@ For information about the first GameLab refer to: https://site.uit.no/tromsogame
 
 The course will be given as a master's level course. We may consider allowing especially motivated bachelor students to take the course.
 
-## Staff
+## Staff and collaborators
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
 * In collaboration with local game development industry.
+
+<!---
+Add logos of participating companies here
+-->
 
 ## Project and evaluation
 
