@@ -32,10 +32,9 @@ TBA
 ## Readings
 
 TBA
-## Mandatory assignments
 
-TBA
+## Project and evaluation
 
-## Exercises
+The course has a very practical and hands-on approach. The primary evaluation criteria is the successful completion and launch of a  game. It is equally important that the choices related to featureset, technologies and programming languages are consistent with the user experience and usage patterns of the game itself.
 
-TBA
+In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and clients-erver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
