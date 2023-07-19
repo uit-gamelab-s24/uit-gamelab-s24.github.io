@@ -17,7 +17,7 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 
 For information about the first GameLab: https://site.uit.no/tromsogamelab/
 
-A list of games and screenshots developed in the first round of the GameLab: https://site.uit.no/tromsogamelab/student-projects/
+Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
 
 ## Administrative information
 
