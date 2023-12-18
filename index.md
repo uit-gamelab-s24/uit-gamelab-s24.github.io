@@ -23,6 +23,10 @@ Also check out the list of [games and screenshots](https://site.uit.no/tromsogam
 
 The course will be given as a master's level course. We may consider allowing especially motivated bachelor students to take the course.
 
+Admission requirements, learning goals, exam information and other administrative information is [here](https://uit.no/utdanning/emner/emne/822449/inf-3910-8).
+
+	[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module=INF-3910-8-1#week=1-25) has information about the rooms used for the lecture and group
+
 ## Staff and collaborators
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
 * Ismet Bachtiar (Tvibit)
@@ -36,9 +40,9 @@ Add logos of participating companies here
 
 The course has a very practical and hands-on approach. The primary evaluation criteria is the successful completion and launch of a  game. It is equally important that the choices related to featureset, technologies and programming languages are consistent with the user experience and usage patterns of the game itself.
 
-Technologies to be used are TBA.
+Technologies to be used are up for the students to decide.
 
-In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and clients-erver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
+In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
 For the grade the project counts 80% and a presentation of the project (20%). 
 
@@ -46,7 +50,7 @@ For the grade the project counts 80% and a presentation of the project (20%).
 
 | Lecture/ seminar / event | Date		   | Subject	  | Lecturer |
 |------------------|-----------|------------|----------|
-| L1  | Start of semester | First lecture    | Lecturer     |
+| Kick-off | Start of semester | First lecture    | Lecturer |
 | S1  | Start of semester | Kick-off seminar | Course staff |
 | SN  | End of semester   | Game presentation evening | Course staff | 
 | E1  | Social event 1    | -                | - |
