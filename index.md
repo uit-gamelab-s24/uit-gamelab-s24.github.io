@@ -8,12 +8,12 @@ The GameLab seminar will again be given Spring 2024! It is a 10 credit course wh
 
 Throughout the course we will have go through, and learn, the complete cycle of game development from idea to launch. The course is focused on launching a functioning end product that marries user experience and technology:
 
-- **Design**: Create a game design with accompanied design document.  
-- **Technology**: Make and reason the correct technology choices to create the designed game considering the constraints of time, resources, technical performance and user experience.   
-- **Team**: Decide roles and share tasks and responsibilities across team based on suitable skillset and area of interest.  
-- **Process**: Agree on process, milestones and approach to development.  
-- **Development**: Implement end to end game features in a time and performance efficient manner with the goal of creating usable and fun experience for the player.  
-- **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
+* **Design**: Create a game design with accompanied design document.  
+* **Technology**: Make and reason the correct technology choices to create the designed game considering the constraints of time, resources, technical performance and user experience.   
+* **Team**: Decide roles and share tasks and responsibilities across team based on suitable skillset and area of interest.  
+* **Process**: Agree on process, milestones and approach to development.  
+* **Development**: Implement end to end game features in a time and performance efficient manner with the goal of creating usable and fun experience for the player.  
+* **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
 
 For information about the first GameLab: https://site.uit.no/tromsogamelab/
 
