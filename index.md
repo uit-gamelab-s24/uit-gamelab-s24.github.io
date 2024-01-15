@@ -15,7 +15,7 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 * **Development**: Implement end to end game features in a time and performance efficient manner with the goal of creating usable and fun experience for the player.  
 * **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
 
-For information about the first GameLab: [https://site.uit.no/tromsogamelab/]([https://site.uit.no/tromsogamelab/])
+For information about the first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
 
 Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
 
