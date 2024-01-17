@@ -49,13 +49,14 @@ For the grade the project counts 80% and a presentation of the project (20%).
 ## Lecture plan and course timeline
 
 | Lecture/ seminar / event | Date		   | Lecturer	  | Sibject  |
-|--------------------------|-----------|------------|----------|
-| Kick-off                 | 09.01.24  |            |          |
-| Lecture 1                | 09.01.24  | 
-| S1  | Start of semester | Kick-off seminar | Course staff |
-| SN  | End of semester   | Game presentation evening | Course staff | 
-| E1  | Social event 1    | -                | - |
-| I1  | Industry visit    | -                | - |
+|--------------------------|-----------|-------------------|---------------------|
+| Kick-off                 | 09.01.24  |                   |                     |
+| Lecture 1                | 09.01.24  | Kim Daniel Arthur | Game development introduction |
+| Lecutre 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
+| Lecutre 3                | 09.01.24  | Cris-Kevin Bjørndal | AI & game development | 
+| Lecutre 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
+| Lecture 5                | 16.01.24  | Ernie Roby-Tomic   | Introduction to Unreal Engine 5 |
+| Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
