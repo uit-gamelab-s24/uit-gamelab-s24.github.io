@@ -60,18 +60,18 @@ For the grade the project counts 80% and a presentation of the project (20%).
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
-| Milestone          | Date     | Descriotion |
-|--------------------|----------|-------------|
-| High-level concept | 02.02.24 | General overall direction |
-| Design             | 16.02.24 | Game and technology defined |
-| Prototype          | 15.03.24 | Playable game |
-| Alpha              | 15.04.24 | Feature complete | 
-| Beta               | 15.05.24 | Content complete. Submit | 
-| Live               | 01.06.24 | Game launched! |
+| Milestone             | Date     | Descriotion |
+|-----------------------|----------|-------------|
+| 1. High-level concept | 06.02.24 | General overall direction |
+| 2. Design             | 20.02.24 | Game and technology defined |
+| 3. Prototype          | 19.03.24 | Playable game |
+| 4. Alpha              | 23.04.24 | Feature complete | 
+| 5. Beta               | 21.05.24 | Content complete. Submit | 
+| 6. Live               | 31.06.24 | Game launched! |
 
 Exam dates:
-* TBA: final delivery of project
-* TBA: oral presentation
+* 31.05.24: final delivery of project
+* TBA (planned between 05-08.06.24): oral presentation
 
 ## Readings
 
