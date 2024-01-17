@@ -27,7 +27,9 @@ Admission requirements, learning goals, exam information and other administrativ
 
 ## Staff and collaborators
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
-* Ismet Bachtiar (Tvibit)
+* Ernie Roby-Tomic (teaching assistant).
+* Anders Sildnes (teaching assistant).
+* Ismet Bachtiar (Tvibit).
 * In collaboration with local game development industry.
 
 <!---
@@ -46,9 +48,10 @@ For the grade the project counts 80% and a presentation of the project (20%).
 
 ## Lecture plan and course timeline
 
-| Lecture/ seminar / event | Date		   | Subject	  | Lecturer |
-|------------------|-----------|------------|----------|
-| Kick-off | Start of semester | First lecture    | Lecturer |
+| Lecture/ seminar / event | Date		   | Lecturer	  | Sibject  |
+|--------------------------|-----------|------------|----------|
+| Kick-off                 | 09.01.24  |            |          |
+| Lecture 1                | 09.01.24  | 
 | S1  | Start of semester | Kick-off seminar | Course staff |
 | SN  | End of semester   | Game presentation evening | Course staff | 
 | E1  | Social event 1    | -                | - |
@@ -56,8 +59,8 @@ For the grade the project counts 80% and a presentation of the project (20%).
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
-| Milestone | Date | Descriotion |
-|-----------|------|-------------|
+| Milestone          | Date     | Descriotion |
+|--------------------|----------|-------------|
 | High-level concept | 02.02.24 | General overall direction |
 | Design             | 16.02.24 | Game and technology defined |
 | Prototype          | 15.03.24 | Playable game |
