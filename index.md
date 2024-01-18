@@ -55,8 +55,10 @@ For the grade the project counts 80% and a presentation of the project (20%).
 | Lecutre 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
 | Lecutre 3                | 09.01.24  | Cris-Kevin Bjørndal | AI & game development | 
 | Lecutre 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
-| Lecture 5                | 16.01.24  | Ernie Roby-Tomic   | Introduction to Unreal Engine 5 |
+| Lecture 5                | 16.01.24  | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
+| Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
 | Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Lecture 7                | 08.02.24  | ris-Kevin Bjørndal | Game assests |
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
