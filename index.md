@@ -59,7 +59,8 @@ For the grade the project counts 80% and a presentation of the project (20%).
 | Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
 | Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 | Lecture 7                | 08.02.24  | Cris-Kevin Bjørndal | Game assests |
-| Lecture 8                | 27.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
+| Lecture 8                | 29.02.24  | Ove Kåven           | Hands-on Unreal Engine 5 |
+| Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
 
 Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
 
