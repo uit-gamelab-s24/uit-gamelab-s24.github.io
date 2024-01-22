@@ -44,8 +44,6 @@ Technologies to be used are up for the students to decide.
 
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
-For the grade the project counts 80% and a presentation of the project (20%). 
-
 ## Lecture plan and course timeline
 
 | Lecture/ seminar / event | Date		   | Lecturer	  | Subject  |
@@ -83,6 +81,7 @@ There are no mandatory readings.
 
 Recommended readings are:
 * The Art of Game Design: A Book of Lenses. Jesse Schell. Describes the non-technical aspects of game design.
+* Various links and other resources posted in our Discord.
 
 ## Mandatory assignments
 
