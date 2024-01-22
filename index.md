@@ -62,7 +62,7 @@ For the grade the project counts 80% and a presentation of the project (20%).
 | Lecture 8                | 27.02.24  | Ove Kåven           | Hands-on Unreal Engine 5 |
 | Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
 
-Project milestones (note that all dates are based on GameLab 1 and will be changed when we know the times for lectures and  groups):
+Project milestones:
 
 | Milestone             | Date     | Descriotion |
 |-----------------------|----------|-------------|
@@ -71,7 +71,7 @@ Project milestones (note that all dates are based on GameLab 1 and will be chang
 | 3. Prototype          | 19.03.24 | Playable game |
 | 4. Alpha              | 23.04.24 | Feature complete | 
 | 5. Beta               | 21.05.24 | Content complete. Submit | 
-| 6. Live               | 31.06.24 | Game launched! |
+| 6. Live               | 31.05.24 | Game launched! |
 
 Exam dates:
 * 31.05.24: final delivery of project
@@ -84,3 +84,30 @@ There are no mandatory readings.
 Recommended readings are:
 * The Art of Game Design: A Book of Lenses. Jesse Schell. Describes the non-technical aspects of game design.
 
+## Mandatory assignments
+
+Presentation at each milestone is mandatory. The presentations will be graded pass/no-pass.
+
+## Deliverables
+
+You will submit one **final report** that should be organized according to the milestones presented at the kick-off:
+1.	High Concept presents the overall direction of the game. You can include the high concept you presented in February as this part of your report. 
+2.	Design defines the game and technology. You can include the design document you presented later in February.
+3.	Prototype is an implementation of a playable game. The report should include a description of this prototype. What was the goal of the prototype and what did you learn from it? A short discussion of the current state of the game is also expected here.
+4.	Alpha is a feature complete implementation of the game. The report should include a description of this alpha version. What was the goal of the alpha version and what did you learn from it? A short discussion of the current state of the game is also expected here
+5.	Beta is a content complete version of the game that can be submitted for evaluation.
+6.	Live is the launched game. In the report you can combine the description for the Beta and Live two milestones in a single chapter. We also expect and evaluation of the complete game project is also expected here. It is also possible to discuss metrics of interest for later evaluation of the launched game here.
+
+You should **submit using Wiseflow** at the end of the course:
+1. Your report.
+2. The final source code (well commented)
+3. The binary of the game (with a description on how to install and play).
+4. A link to the published game.
+
+## The presentation/demo (oral exam)
+
+The presentation/demo should give the audience enough information to be able to evaluate the game regarding the complexity of the development of it and its playability.
+
+## Grading
+
+This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game developmentincluding the quality and complexity of the implementation.The report and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
