@@ -50,9 +50,9 @@ In addition to being evaluated on the successful completion of the game you will
 |--------------------------|-----------|-------------------|---------------------|
 | Kick-off                 | 09.01.24  |                   |                     |
 | Lecture 1                | 09.01.24  | Kim Daniel Arthur | Game development introduction |
-| Lecutre 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
-| Lecutre 3                | 09.01.24  | Cris-Kevin Bjørndal | AI & game development | 
-| Lecutre 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
+| Lecture 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
+| Lecture 3                | 09.01.24  | Cris-Kevin Bjørndal | AI & game development | 
+| Lecture 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
 | Lecture 5                | 16.01.24  | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
 | Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
 | Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
@@ -62,7 +62,7 @@ In addition to being evaluated on the successful completion of the game you will
 
 Project milestones:
 
-| Milestone             | Date     | Descriotion |
+| Milestone             | Date     | Description |
 |-----------------------|----------|-------------|
 | 1. High-level concept | 06.02.24 | General overall direction |
 | 2. Design             | 20.02.24 | Game and technology defined |
@@ -109,4 +109,4 @@ The presentation/demo should give the audience enough information to be able to 
 
 ## Grading
 
-This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game developmentincluding the quality and complexity of the implementation.The report and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
+This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game development including the quality and complexity of the implementation. The report and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
