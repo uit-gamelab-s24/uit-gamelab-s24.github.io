@@ -87,6 +87,13 @@ Recommended readings are:
 
 Presentation at each milestone is mandatory. The presentations will be graded pass/no-pass.
 
+### Milestone #1 : High-level Concept
+On 6.2/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
+
+The presentation topic is "High Concept" and should give an overall introduction to what you want to build, why your game is going to be worth playing and key elements in the design and revenue model.
+
+In our discord-server #lectures channel (https://discord.gg/Jv5mcvuWHz) there is a `lecture-starting-b.pdf` that can serve as your guide for what content to include in your presentation, as well as other examples from previous students. You don't have to include all the suggested content from `lecture-starting-b.pdf`.
+
 ## Deliverables
 
 You will submit one **final report** that should be organized according to the milestones presented at the kick-off:
