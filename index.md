@@ -28,7 +28,7 @@ Admission requirements, learning goals, exam information and other administrativ
 ## Staff and collaborators
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
 * Ernie Roby-Tomic (teaching assistant).
-* Anders Sildnes (teaching assistant).
+* Anders Sildnes <anders.sildnes@uit.no> (teaching assistant).
 * Ismet Bachtiar (Tvibit).
 * In collaboration with local game development industry.
 
