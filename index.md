@@ -57,7 +57,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
 | Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 | Lecture 7                | 08.02.24  | Cris-Kevin Bjørndal | Game assests |
-| Lecture 8                | 27.02.24  | Ove Kåven           | Hands-on Unreal Engine 5 |
+| Lecture 8                | 27.02.24  | Ernie Roby-Tomic      | Hands-on Unreal Engine 5 |
 | Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
 
 Project milestones:
