@@ -88,7 +88,7 @@ Recommended readings are:
 Presentation at each milestone is mandatory. The presentations will be graded pass/no-pass.
 
 ### Milestone #1 : High-level Concept
-On 6.2/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
+On 13.2/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
 
 The presentation topic is "High Concept" and should give an overall introduction to what you want to build, why your game is going to be worth playing and key elements in the design and revenue model.
 
