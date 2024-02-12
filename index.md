@@ -65,7 +65,7 @@ Project milestones:
 | Milestone             | Date     | Description |
 |-----------------------|----------|-------------|
 | 1. High-level concept | 06.02.24 | General overall direction |
-| 2. Design             | 20.02.24 | Game and technology defined |
+| 2. Design             | 22.02.24 | Game and technology defined |
 | 3. Prototype          | 19.03.24 | Playable game |
 | 4. Alpha              | 23.04.24 | Feature complete | 
 | 5. Beta               | 21.05.24 | Content complete. Submit | 
