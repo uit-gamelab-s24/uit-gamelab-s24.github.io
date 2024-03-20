@@ -51,14 +51,17 @@ In addition to being evaluated on the successful completion of the game you will
 | Kick-off                 | 09.01.24  |                   |                     |
 | Lecture 1                | 09.01.24  | Kim Daniel Arthur | Game development introduction |
 | Lecture 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
-| Lecture 3                | 09.01.24  | Cris-Kevin Bjørndal | AI & game development | 
+| Lecture 3                | 09.01.24  | Cris-Kevin Bjørndal  | AI & game development | 
 | Lecture 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
 | Lecture 5                | 16.01.24  | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
 | Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
 | Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 | Lecture 7                | 08.02.24  | Cris-Kevin Bjørndal | Game assests |
-| Lecture 8                | 27.02.24  | Ernie Roby-Tomic      | Hands-on Unreal Engine 5 |
+| Lecture 8                | 27.02.24  | Ernie Roby-Tomic    | Hands-on Unreal Engine 5 |
 | Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
+| Lecture 10               | 21.03.24  | Jonna Häkkilä       | Playful User Experience Design for Wearable Computing |
+| Lecture 11               | 18.04.24 (TBC) | Anders Lauridsen | Norwegian game ecosystem and pitching |
+| Lecture 12               | 30.04.24 (TBC) | Henriette Myrlund | Juicing |
 
 Project milestones:
 
