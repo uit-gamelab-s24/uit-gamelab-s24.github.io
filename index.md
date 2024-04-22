@@ -119,4 +119,4 @@ The presentation/demo should give the audience enough information to be able to 
 
 ## Grading
 
-This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game development including the quality and complexity of the implementation. The report and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
+This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game development including the quality and complexity of the implementation. The game, report, and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
