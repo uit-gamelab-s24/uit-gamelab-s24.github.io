@@ -61,7 +61,8 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
 | Lecture 10               | 21.03.24  | Jonna Häkkilä       | Playful User Experience Design for Wearable Computing |
 | Lecture 11               | 18.04.24  | Anders Lauridsen    | Norwegian game ecosystem and pitching |
-| Lecture 12               | 07.05.24?  | Henriette Myrlund | Juicing |
+| Lecture 12               | 25.04.24  | Anna Dranovska      | Funding opportunities for students |
+| Lecture 13               | 07.05.24  | Henriette Myrlund   | Juicing |
 
 Project milestones:
 
